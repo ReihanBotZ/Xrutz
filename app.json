@@ -1,7 +1,7 @@
 {
   "name": "ReihanBotZ",
   "description": "Hai Saya ReihanBotZ 👋, Ada Yang Bisa Saya Bantu?",
-  "repository": "",
+  "repository": "https://github.com/ReihanBotZ",
   "logo": "https://telegra.ph/file/dbf39a185647132129f3f.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
 }
